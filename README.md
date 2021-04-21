@@ -14,22 +14,20 @@
 
 #### `.env` requirements (where applicable)
 
-i.e.
-
-- `PORT` - Port Number
-- `MONGODB_URI` - URL to the running mongo instance/db
+- `express`
+- `Elastic bean stalk`
 
 #### How to initialize/run your application (where applicable)
 
-- e.g. `npm start`
+- `npm start`
+- `eb use "enviroment name"`
+- `eb deploy`
 
 #### How to use your library (where applicable)
 
 #### Tests
 
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+- no tests on this assignment
 
 #### UML
 
